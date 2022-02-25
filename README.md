@@ -1,5 +1,5 @@
 # fitbit-cli-pnpm-setup
-How to setup the Fitbit CLI on Windows using nvm and pnpm
+How to setup the Fitbit CLI on `Windows` using nvm and pnpm
 ## Disclaimer:
 I only use node for a few projects and my upgrade went without issues,
 if you have a more complex setup, things could go wrong.
