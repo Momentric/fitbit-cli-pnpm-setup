@@ -43,6 +43,10 @@ My old setup contained the following:
 4) Install the Fitbit CLI tools by running `pnpn add -D @fitbit/sdk` and `pnpn add -D @fitbit/sdk-cli`
 5) At this point, setup is complete! when running build commands, pnpx is the same as npx.
 
+### Clean Up
+- Remember to remove any node related files if they were in your project folder
+- Add `pnpm-lock.yaml` to `.gitignore` if needed
+
 # Resources
 Here is a list of helpful links:
 - [Node.js](https://nodejs.org/en/)
