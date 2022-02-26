@@ -48,7 +48,7 @@ My old setup contained the following:
 5) At this point, setup is complete! when running build commands, pnpx is the same as npx.
 
 ### Clean Up
-- Remember to remove any node related files if they were in your project folder
+- Remove any unused files in your project
 - Add `pnpm-lock.yaml` to `.gitignore` if needed
 
 # Resources
